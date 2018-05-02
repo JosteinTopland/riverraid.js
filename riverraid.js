@@ -1,3 +1,8 @@
+/*
+  River Raid JS
+  jostein.topland@gmail.com
+*/
+
 function JetFighter(x, y) {
   this.position;
   this.direction;
